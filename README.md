@@ -68,4 +68,4 @@ pip install -r requirements.txt
 streamlit run Fraud_Detection.py
 
 #👨‍💻 Developed by
-Md Salman Farsi for Unified Mentors Pvt. Ltd.
+Md Salman Farsi for Unified Mentors Pvt. Ltd. Internship Project
