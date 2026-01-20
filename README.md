@@ -38,6 +38,18 @@
 
 ---
 
+## 📂 Project Structure
+text
+├── images/             # Application screenshots and UI assets
+├── notebooks/          # Data cleaning, EDA, and model training
+├── reports/            # Technical report and project presentation
+├── app.py              # Main Streamlit application
+├── requirements.txt    # List of required Python packages
+├── model.pkl           # Finalized fraud detection model
+├── scaler.pkl          # Feature scaling object
+└── sample_data.csv     # Anonymized transaction dataset
+---
+
 ## 💻 How to Run Locally
 
 Run the following commands in your terminal to set up the project:
@@ -55,5 +67,5 @@ pip install -r requirements.txt
 # Run the app
 streamlit run Fraud_Detection.py
 
-**Author**
-Md Salman Farsi
+## 👨‍💻 Developed by
+Md Salman Farsi for Unified Mentors Pvt. Ltd.
