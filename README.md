@@ -44,10 +44,10 @@ Run the following commands in your terminal to set up the project:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/FraudGuard-AI.git](https://github.com/your-username/FraudGuard-AI.git)
+git clone https://github.com/mdsalmanfarsi692004-svg/Financial-Fraud-Detection-System.git
 
 # Navigate to the directory
-cd FraudGuard-AI
+cd Financial-Fraud-Detection-System
 
 # Install dependencies
 pip install -r requirements.txt
